@@ -15,7 +15,7 @@ By running the command `uv run autolysis.py dataset.csv` in the terminal, the sc
 
 <b>Narrative Generation:</b> The script generates a written analysis of the dataset, which includes key insights, correlations, and missing data summaries.
 
-# Output Files
+## Output Files
 Upon successful execution of the script, the following files will be generated in the current directory:
 
 <b>README.md:</b> This file will contain the automated analysis results, structured as a comprehensive story.
