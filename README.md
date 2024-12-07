@@ -18,11 +18,11 @@ By running the command `uv run autolysis.py dataset.csv` in the terminal, the sc
 # Output Files
 Upon successful execution of the script, the following files will be generated in the current directory:
 
-`README.md`: This file will contain the automated analysis results, structured as a comprehensive story.
+<b>README.md:</b> This file will contain the automated analysis results, structured as a comprehensive story.
 
-`correlation_matrix.png`: This file will contain a heatmap visualization of the correlation matrix, showing relationships between numeric columns in the dataset.
+<b>correlation_matrix.png:</b> This file will contain a heatmap visualization of the correlation matrix, showing relationships between numeric columns in the dataset.
 
-`missing_data.png`: This file will display a bar chart indicating the proportion of missing data for each column in the dataset.
+<b>missing_data.png:</b> This file will display a bar chart indicating the proportion of missing data for each column in the dataset.
 
 Note: Replace dataset.csv with the name of your CSV file.
  
