@@ -1,3 +1,15 @@
+# /// script
+# requires-python = ">=3.8"  # Declare the required Python version
+# dependencies = [
+#   "numpy",
+#   "pandas",
+#   "matplotlib",
+#   "requests",
+#   "seaborn",
+#   "logging",
+#   "openai",
+# ]  # List all necessary dependencies
+# ///
 import os
 import pandas as pd
 import seaborn as sns
