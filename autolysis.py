@@ -1,6 +1,7 @@
 # /// script
-# requires-python = ">=3.8"  # Declare the required Python version
+# requires-python = ">=3.11"  # Declare the required Python version
 # dependencies = [
+#   "os",
 #   "numpy",
 #   "pandas",
 #   "matplotlib",
@@ -8,6 +9,10 @@
 #   "seaborn",
 #   "logging",
 #   "openai",
+#   "sys",
+#   "json",
+#   "dotenv",
+#   "datetime",
 # ]  # List all necessary dependencies
 # ///
 import os
